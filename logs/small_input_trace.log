@@ -1,0 +1,254 @@
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Reading input file for elements: data/trace_input.txt
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Found 35 elements in input file
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Building the ArraySet
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Inserting element: hello
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 1, and total items across both lists: 0
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Inserting element: there
+2014-10-06 20:16:10,832:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 1, and total items across both lists: 1
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Inserting element: how
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 1, and total items across both lists: 2
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Inserting element: are
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 1, and total items across both lists: 3
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Inserting element: you
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 2, and total items across both lists: 4
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Inserting element: doing
+2014-10-06 20:16:10,833:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 2, and total items across both lists: 5
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #5 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #6 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Inserting element: i
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 2, and total items across both lists: 6
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Inserting element: am
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 2, and total items across both lists: 7
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #5 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #6 to new merged array
+2014-10-06 20:16:10,834:INFO    :ArraySet.py         :Adding element #7 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #8 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Inserting element: fine
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 2, and total items across both lists: 8
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Inserting element: thanks
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 2, and total items across both lists: 9
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 2, and total items across both lists: 9
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #5 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #6 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #7 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #8 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #9 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Adding element #10 to new merged array
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Inserting element: for
+2014-10-06 20:16:10,835:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 3, and total items across both lists: 10
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Inserting element: asking
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 3, and total items across both lists: 11
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Inserting element: what
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 3, and total items across both lists: 12
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 3, and total items across both lists: 12
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Checking element in index: 2 from short array with length 3, and total items across both lists: 12
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #5 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #6 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #7 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #8 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #9 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #10 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #11 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #12 to new merged array
+2014-10-06 20:16:10,836:INFO    :ArraySet.py         :Adding element #13 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Inserting element: is
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 3, and total items across both lists: 13
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Inserting element: your
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 3, and total items across both lists: 14
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 3, and total items across both lists: 14
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Inserting element: name
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 3, and total items across both lists: 15
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 3, and total items across both lists: 15
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #5 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #6 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #7 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #8 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #9 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #10 to new merged array
+2014-10-06 20:16:10,837:INFO    :ArraySet.py         :Adding element #11 to new merged array
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Adding element #12 to new merged array
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Adding element #13 to new merged array
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Adding element #14 to new merged array
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Adding element #15 to new merged array
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Adding element #16 to new merged array
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Inserting element: my
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 16
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Inserting element: name
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 17
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 4, and total items across both lists: 17
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Inserting element: is
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 18
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Inserting element: phillip
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 18
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 4, and total items across both lists: 18
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Checking element in index: 2 from short array with length 4, and total items across both lists: 18
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Inserting element: foundations
+2014-10-06 20:16:10,838:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 19
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Inserting element: of
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 19
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 4, and total items across both lists: 19
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Checking element in index: 2 from short array with length 4, and total items across both lists: 19
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #5 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #6 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #7 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #8 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #9 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #10 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #11 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #12 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #13 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #14 to new merged array
+2014-10-06 20:16:10,839:INFO    :ArraySet.py         :Adding element #15 to new merged array
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Adding element #16 to new merged array
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Adding element #17 to new merged array
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Adding element #18 to new merged array
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Adding element #19 to new merged array
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Adding element #20 to new merged array
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Inserting element: computer
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 20
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Inserting element: architecture
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 21
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Inserting element: class
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 22
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 4, and total items across both lists: 22
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Inserting element: rocks
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 23
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 4, and total items across both lists: 23
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Checking element in index: 2 from short array with length 4, and total items across both lists: 23
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Checking element in index: 3 from short array with length 4, and total items across both lists: 23
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,840:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #5 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #6 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #7 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #8 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #9 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #10 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #11 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #12 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #13 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #14 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #15 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #16 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #17 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #18 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #19 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #20 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #21 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #22 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #23 to new merged array
+2014-10-06 20:16:10,841:INFO    :ArraySet.py         :Adding element #24 to new merged array
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Inserting element: my
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 24
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Inserting element: socks
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 25
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 4, and total items across both lists: 25
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Inserting element: i
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 26
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Inserting element: like
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 26
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 4, and total items across both lists: 26
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Inserting element: programming
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 4, and total items across both lists: 27
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 4, and total items across both lists: 27
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Checking element in index: 2 from short array with length 4, and total items across both lists: 27
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Merging short and long arrays together
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Adding element #1 to new merged array
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Adding element #2 to new merged array
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Adding element #3 to new merged array
+2014-10-06 20:16:10,842:INFO    :ArraySet.py         :Adding element #4 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #5 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #6 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #7 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #8 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #9 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #10 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #11 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #12 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #13 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #14 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #15 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #16 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #17 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #18 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #19 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #20 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #21 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #22 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #23 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #24 to new merged array
+2014-10-06 20:16:10,843:INFO    :ArraySet.py         :Adding element #25 to new merged array
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Adding element #26 to new merged array
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Adding element #27 to new merged array
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Adding element #28 to new merged array
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Inserting element: a
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 5, and total items across both lists: 28
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Inserting element: how
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 5, and total items across both lists: 29
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 5, and total items across both lists: 29
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Inserting element: about
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 5, and total items across both lists: 30
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 5, and total items across both lists: 30
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Inserting element: you
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 0 from short array with length 5, and total items across both lists: 31
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 1 from short array with length 5, and total items across both lists: 31
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 2 from short array with length 5, and total items across both lists: 31
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking element in index: 3 from short array with length 5, and total items across both lists: 31
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Querying for element hello
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking if result element how is equal to search element hello, total length of list: 5
+2014-10-06 20:16:10,844:INFO    :ArraySet.py         :Checking if result element a is equal to search element hello, total length of list: 5
+2014-10-06 20:16:10,845:INFO    :ArraySet.py         :Checking if result element about is equal to search element hello, total length of list: 5
+2014-10-06 20:16:10,845:INFO    :ArraySet.py         :Checking if result element i is equal to search element hello, total length of list: 28
+2014-10-06 20:16:10,845:INFO    :ArraySet.py         :Checking if result element doing is equal to search element hello, total length of list: 28
+2014-10-06 20:16:10,845:INFO    :ArraySet.py         :Checking if result element foundations is equal to search element hello, total length of list: 28
+2014-10-06 20:16:10,845:INFO    :ArraySet.py         :Checking if result element how is equal to search element hello, total length of list: 28
+2014-10-06 20:16:10,845:INFO    :ArraySet.py         :Checking if result element hello is equal to search element hello, total length of list: 28
+2014-10-06 20:16:10,845:INFO    :ArraySet.py         :Element exists? True
+Element 'hello' exists? True
